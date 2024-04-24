@@ -1,0 +1,4 @@
+(executable
+ (public_name nix_riot_example)
+ (name main)
+ (libraries nix_riot_example riot))

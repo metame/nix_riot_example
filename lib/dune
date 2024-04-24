@@ -1,0 +1,2 @@
+(library
+ (name nix_riot_example))
