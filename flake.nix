@@ -10,8 +10,8 @@
 
       ## there are several valid urls for an input
       url = "github:riot-ml/riot"; # the root of the repo, will take tip of main on first build
-      # url = "github:riot-ml/riot/0.0.9" # tag
-      # url = "github:riot-ml/riot/89ab4b9de3f289e36559637deb9ef9d4c0150d7c" # sha
+      # url = "github:riot-ml/riot/0.0.9"; # tag
+      # url = "github:riot-ml/riot/89ab4b9de3f289e36559637deb9ef9d4c0150d7c"; # sha
       # url = "/Users/me/oss/riot-ml/riot"; # local path of the cloned repo
 
       ## ensure all inputs use same version of nixpkgs
